@@ -1,6 +1,5 @@
+import {Container} from 'next/app';
 import React from 'react'
-import {Container} from './Container';
-import {DarkModeSwitch} from './DarkModeSwitch';
 import {NavBar} from './NavBar';
 
 interface BasicTemplateProps {

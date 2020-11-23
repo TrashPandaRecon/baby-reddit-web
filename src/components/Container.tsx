@@ -14,6 +14,6 @@ export const Container = (props: any) => {
       bg={bgColor[colorMode]}
       color={color[colorMode]}
       {...props}
-    />
+    ></Flex>
   )
 }
